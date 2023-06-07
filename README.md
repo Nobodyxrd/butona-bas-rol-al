@@ -1,8 +1,8 @@
 # nasıl caliştırırım ? 
-configs kısmındaki config.json'u doldur ardından npm i yazarak modülleri kur.
-bi kanala prefixle birlikte buton yazman yeterli olucaktır. 
+configs kısmındaki config.json'u doldur ardından ``` npm i```  yazarak modülleri kur.
+bi kanala prefixle birlikte ``` buton```  yazman yeterli olucaktır. 
 
-NOT: emojis.json kısmına birşey yazmana gerek yok otomatik olarak emojiler kurulacak.
+**NOT:** emojis.json kısmına birşey yazmana gerek yok otomatik olarak emojiler kurulacak.
 
 # bilgilendirme
 5 starda daha fazla eklentiler eklerim renk rolü filan  iyi kullanımlar işinizi görür. umarım :) ♥️
