@@ -1,6 +1,6 @@
 # nasıl caliştırırım ? 
-configs kısmındaki config.json'u doldur ardından ``` npm i```  yazarak modülleri kur.
-bi kanala prefixle birlikte ``` buton```  yazman yeterli olucaktır. 
+configs kısmındaki config.json'u doldur ardından ```npm i```  yazarak modülleri kur.
+bi kanala prefixle birlikte ```buton```  yazman yeterli olucaktır. 
 
 **NOT:** emojis.json kısmına birşey yazmana gerek yok otomatik olarak emojiler kurulacak.
 
