@@ -1,0 +1,17 @@
+{
+  "name": "v13-supervizor",
+  "version": "0.0.1",
+  "description": "",
+  "main": "nobody.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Nobody",
+  "license": "MIT",
+  "dependencies": {
+    "ark.db": "^2.7.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.1.2",
+    "fs": "^0.0.1-security"
+  }
+}

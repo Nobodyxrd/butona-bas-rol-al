@@ -1,0 +1,16 @@
+{
+    "bot": { 
+        "token": "botun tokeni",
+        "prefix":".",
+        "footer": "Nobody was Here ❤️",
+        "botdurum": "Nobody ❤️ rol al",
+        "BotDeveloper": "1081535698093482056",
+        "sunucuid": "1087157874280648805"
+    },
+
+    "roles": {
+        "etkinlikKatilimcisi": "1115781348574121995",
+        "cekilisKatilimcisi": "1088833734259773440"
+    }
+
+    }
