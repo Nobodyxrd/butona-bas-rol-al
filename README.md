@@ -1,5 +1,13 @@
+# nasıl caliştırırım ? 
+configs kısmındaki config.json'u doldur ardından npm i yazarak modülleri kur.
+bi kanala prefixle birlikte buton yazman yeterli olucaktır. 
+
+NOT: emojis.json kısmına birşey yazmana gerek yok otomatik olarak emojiler kurulacak.
+
 # bilgilendirme
-5 starda daha fazla eklentiler eklerim renk rolü filan  iyi kullanımlar işinizi görür. :)
+5 starda daha fazla eklentiler eklerim renk rolü filan  iyi kullanımlar işinizi görür. umarım :) ♥️
+işinizi gördüyse bir star atmayı unutmayın. 
+
 
 # 📷 Görseller
 ![image](https://github.com/Nobody0110/butona-bas-rol-al/assets/131596762/72662efc-127d-48af-a656-65fdf5a295ec)
