@@ -1,5 +1,5 @@
 # nasıl caliştırırım ? 
-configs kısmındaki ```config.json'u doldur``` ardından ```npm i```  yazarak modülleri kur.
+configs kısmındaki ```config.json'u doldur``` ardından ```npm i```  yazarak modülleri kur. ardından emoji kurulumunu ```kur``` komunduyla yap sonradan
 bi kanala prefixle birlikte ```buton```  yazman yeterli olucaktır. 
 
 **NOT:** emojis.json kısmına birşey yazmana gerek yok otomatik olarak emojiler kurulacak.
