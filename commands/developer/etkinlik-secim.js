@@ -7,13 +7,8 @@ module.exports = {
     name: "buton",
     aliases: ['ecrolalma' , 'butonn' , "ecbuton" , "ec"],
     async execute(client , message , args) {
-        
-                if (message.guild === null) {
-            return message.reply({ content: `Bu komutu sadece Sunucuda kullanabilirsin!`, ephemeral: true })
-          } else if (!config.bot.BotDeveloper.includes(message.author.id)) {
-            return message.reply({ content: ":x: Bot developerı olmadığın için kurulumu yapamazsın.", ephemeral: true })
-          } else {
-                if (message.guild === null) {
+
+        if (message.guild === null) {
             return message.reply({ content: `Bu komutu sadece Sunucuda kullanabilirsin!`, ephemeral: true })
           } else if (!config.bot.BotDeveloper.includes(message.author.id)) {
             return message.reply({ content: ":x: Bot developerı olmadığın için kurulumu yapamazsın.", ephemeral: true })
@@ -25,6 +20,6 @@ module.exports = {
             {"type":2,"style":4,"custom_id":"buttonetkinlik","label":"🎉 Etkinlik Katılımcısı"}
             
             ]}]} })
-      },
-    };
-    
+      }
+    }
+}
